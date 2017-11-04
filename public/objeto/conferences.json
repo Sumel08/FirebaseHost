@@ -1,0 +1,120 @@
+[
+    {
+    	"id": "1",
+    	"title": "Navegación Autónoma, el Elemento Clave en la Economía del Futuro",
+    	"speaker": "Dr. Erik Zamora",
+    	"come": "CIC-IPN",
+    	"details": " ",
+      	"notes": " ",
+      	"id_image": "ZAMORA"
+    },
+    {
+    	"id": "3",
+      	"title": "Análisis de sentimientos de Internet y redes sociales",
+    	"speaker": "Dr. Alexander Gelbukh",
+    	"come": "CIC-IPN",
+    	"details": " ",
+      	"notes": " ",
+      	"id_image": "GELBUKH"
+    },
+    {
+    	"id": "4",
+      	"title": "Tendencias y oportunidades en investigación en sistemas distribuidos multi-camara.",
+    	"speaker": "Dr. Hugo Jimenez Hernandez",
+    	"come": "CIDESI",
+    	"details": "El abaratamiento continuo de la electrónica y los recursos computacionales, han permitido que muchos instrumentos de medición se introduzcan en la vida cotidiana. Sin embargo, ahora el problema no es el acceso a la tecnología, si no a cómo nosotros elaboramos criterios para “decidir” sobre esa cantidad de información. En esta plática, se presente mostrar un panorama general, de cómo impacta el uso de tecnología accesible y que nuevos retos computacionales, de comunicación y codificación estamos por enfrentarnos en los próximos años, desde la vista de sistemas de monitoreo.Esta plática dará una situación global de la perspectiva actual de lo que se considera el estado del arte en sistemas de monitoreo y detección de actividades, los retos y oportunidades para desde el punto de vista investigación y tecnológico para los siguientes años.",
+      	"notes": "",
+      	"id_image": "HUGOJ"
+    },
+    {
+    	"id": "5",
+      	"title": "Panorama actual de los Sistemas de Informacion Geográfica",
+    	"speaker": "Dr. Carlos Vladimir Luna Soto, Dr. Imelda Escamilla Bouchán",
+    	"come": "CIC-IPN",
+    	"details": " ",
+      	"notes": " ",
+      	"id_image": "CARLOSV"
+    },
+    {
+    	"id": "6",
+      	"title": "Panorama actual de los Sistemas de Informacion Geográfica",
+    	"speaker": "Dr. Imelda Escamilla Bouchán, Dr. Carlos Vladimir Luna Soto",
+    	"come": "CIC-IPN",
+    	"details": " ",
+      	"notes": " ",
+      	"id_image": "IMELDA"
+    },
+    {
+    	"id": "7",
+      	"title": "¿Qué es Big Data y por qué es importante contar con una solución Big Data?",
+    	"speaker": "Dr. Gilberto Lorenzo Martínez Luna",
+    	"come": "CIC-IPN",
+    	"details": " ",
+      	"notes": " ",
+      	"id_image": "GILBERTO"
+    },
+    {
+    	"id": "8",
+      	"title": "Comunidades twitter fantasmas",
+    	"speaker": "Prof. Israel Cordero",
+    	"come": "Universidad Mayor de Chile",
+    	"details": "Un bots en twitter tiene la capacidad de simular ser personas en una red social, el cual son creadas con un fin determinado. ya que mediante funciones imita el comportamiento de un ser humano : publicar tuits con enlaces a una página web, retuitear de forma automática mencionando alguna palabra o hashtag. También son conocidos por crear comunidades fantasmas el cual son utilizadas para inflar cuentas mediante seguidores fantasmas aumentando la popularidad de la cuenta. E incluso imponer una tendencia.",
+      	"notes": "SALA 2: ",
+      	"id_image": "ISRAELC"
+    },
+    {
+    	"id": "9",
+      	"title": "Asterisk: A story of hope and encouragement",
+    	"speaker": "Dr. David Duffett",
+    	"come": "invitado especial de nuestro patrocinador TOGA UNIVERSITY",
+    	"details": "Asterisk was given to the world by Mark Spencer in 1999. In this talk, David Duffett (Worldwide Community Director for the Asterisk open source project) will explain how it has brought hope and encouragement to people in many different parts of the world - including Latin America. David will also touch on some of the technical aspects of Asterisk - now the most powerful, most flexible and most popular open source communications platform in the world - and how it has helped drive the adoption of open standards like SIP, WebRTC and now the Internet of Things.",
+      	"notes": " ",
+      	"id_image": "DUFFETT"
+    },
+    {
+    	"id": "10",
+      	"title": "¿Cómo Hackear un sitio web?",
+    	"speaker": "M. en C. Carlos Hernández",
+    	"come": "Telemática",
+    	"details": " ",
+      	"notes": " ",
+      	"id_image": "CARLOSN"
+    },
+    {
+    	"id": "11",
+      	"title": "Trends in IoT & Demo",
+    	"speaker": "M. en C. Noé Sierra",
+    	"come": "iTV",
+    	"details": " ",
+      	"notes": " ",
+      	"id_image": "NOES"
+    },
+    {
+    	"id": "12",
+      	"title": "Seguridad física en las instalaciones de las TI",
+    	"speaker": "Prof. Luis Muñoz",
+    	"come": "Universidad Mayor de Chile",
+    	"details": " ",
+      	"notes": "SALA 1: ",
+      	"id_image": "LUISM"
+    },
+    {
+    	"id": "13",
+      	"title": "Innovation in Cisco, there's never been a better time",
+    	"speaker": "Susana Tapia",
+    	"come": "CISCO",
+    	"details": " ",
+      	"notes": "",
+      	"id_image": "SUSANAT"
+    },
+    {
+      "id": "14",
+        "title": "TOGA CUSTOMER SERVICES",
+      "speaker": "JULIO RAMIREZ",
+      "come": "TOGA UNIVERSITY",
+      "details": " ",
+        "notes": "",
+        "id_image": "JULIOR"
+    }
+
+]

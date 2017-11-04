@@ -1,0 +1,40 @@
+[
+    {
+        "id": 3,
+        "event": 8,
+        "person": 32,
+        "person_data": {
+            "id": 32,
+            "name": "Edgar",
+            "surname": "Hernández Solís",
+            "birthdate": "2017-11-08",
+            "photo": 78,
+            "resume": "-",
+            "email": "edgarhzs.93@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/edgar.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 4,
+        "event": 8,
+        "person": 33,
+        "person_data": {
+            "id": 33,
+            "name": "Oscar Alejandro",
+            "surname": "Lemus Pichardo",
+            "birthdate": "2017-11-08",
+            "photo": 79,
+            "resume": "-",
+            "email": "oscarl.ocho@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/lemus.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    }
+]

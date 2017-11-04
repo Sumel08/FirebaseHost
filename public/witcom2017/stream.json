@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "url": "rtmp://148.204.86.75:1935/envivo.upiita/livestream",
+        "description": "High Quality",
+        "event": 8
+    },
+    {
+        "id": 2,
+        "url": "rtmp://148.204.86.75:1935/envivo.upiita.lq/livestream",
+        "description": "Low Quality",
+        "event": 8
+    }
+]

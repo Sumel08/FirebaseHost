@@ -1,0 +1,211 @@
+[
+    {
+        "id": 4,
+        "person": 21,
+        "event": 8,
+        "person_data": {
+            "id": 21,
+            "name": "IPN",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 67,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/ipn.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 5,
+        "person": 22,
+        "event": 8,
+        "person_data": {
+            "id": 22,
+            "name": "UPIITA-IPN",
+            "surname": "IPN",
+            "birthdate": "2017-11-08",
+            "photo": 68,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/upiita.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 6,
+        "person": 23,
+        "event": 8,
+        "person_data": {
+            "id": 23,
+            "name": "Cinvestav",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 69,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/cinvestav.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 7,
+        "person": 24,
+        "event": 8,
+        "person_data": {
+            "id": 24,
+            "name": "Universidad Mayor",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 70,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/umayor-pie.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 8,
+        "person": 25,
+        "event": 8,
+        "person_data": {
+            "id": 25,
+            "name": "TOGA University",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 71,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/toga.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 9,
+        "person": 26,
+        "event": 8,
+        "person_data": {
+            "id": 26,
+            "name": "GOOGLE",
+            "surname": "México",
+            "birthdate": "2017-11-08",
+            "photo": 72,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/google.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 10,
+        "person": 27,
+        "event": 8,
+        "person_data": {
+            "id": 27,
+            "name": "FICTICIUM",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 73,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/ficticium.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 11,
+        "person": 28,
+        "event": 8,
+        "person_data": {
+            "id": 28,
+            "name": "ORACLE",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 74,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/oracle.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 12,
+        "person": 29,
+        "event": 8,
+        "person_data": {
+            "id": 29,
+            "name": "Honeywell",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 75,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/honeywell.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 13,
+        "person": 30,
+        "event": 8,
+        "person_data": {
+            "id": 30,
+            "name": "nearsoft",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 76,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/Nearsoft.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 14,
+        "person": 31,
+        "event": 8,
+        "person_data": {
+            "id": 31,
+            "name": "CISCO",
+            "surname": "-",
+            "birthdate": "2017-11-08",
+            "photo": 77,
+            "resume": "-",
+            "email": "witcom.upiita@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/cisco.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    }
+]

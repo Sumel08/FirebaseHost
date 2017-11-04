@@ -1,0 +1,23 @@
+[
+    {
+        "id": 11,
+        "name": "Tourism",
+        "description": "WITCOM encourages the sharing of knowledge and experiences beyond boundaries.",
+        "show_in_app": true,
+        "event": 8
+    },
+    {
+        "id": 12,
+        "name": "Conference Rooms",
+        "description": "WITCOM 2017",
+        "show_in_app": false,
+        "event": 8
+    },
+    {
+        "id": 13,
+        "name": "Sede",
+        "description": "Main Place",
+        "show_in_app": false,
+        "event": 8
+    }
+]

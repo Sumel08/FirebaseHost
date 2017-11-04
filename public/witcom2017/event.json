@@ -1,0 +1,16 @@
+[
+    {
+        "id": 8,
+        "user_profile": 8,
+        "name": "WITCOM 2017",
+        "code": "witcom2017cancun",
+        "description": "WITCOM aims bringing together researchers, developers, users, entrepreneurs and practitioners to discuss and present trend topics and novelty systems based on {telematics}, {computing} and {communications}, fostering interdisciplinary discussions and research in all aspects of Telematics.",
+        "start_date": "2017-11-08T09:00:00Z",
+        "end_date": "2017-11-10T15:00:00Z",
+        "place": 23,
+        "schedule": null,
+        "event_image": 22,
+        "event_image_url": "/media/witcomLogo.png",
+        "event_date": "Wednesday November 08 - Friday November 10"
+    }
+]

@@ -1,0 +1,43 @@
+[ {
+    "id": "6",
+    "title": "Introducción al Cloud Computing",
+    "monitor": "David Barrera",
+    "detail": "En este curso se abordaran los modelos en los que esta basado el Cloud Computing, debido a la gran demanda que ha surgido en la industria por soluciones de computo que ofrezcan mayor capacidad de procesamiento y almacenamiento, compatibilidad con diversos dispositivos, accesibilidad desde distintos sitios.",
+    "notes": "Perfil: Los participantes deben tener conocimiento básico de Linux, Javascript y HTML.",
+    "id_image": "WORKCLOUD",
+    "place": "SILAO",
+    "date" : "09-11-16",
+    "time" : "10:00-15:00"
+  }, {
+    "id": "7",
+    "title": "Introducción a la programación de aplicaciones móviles con Android",
+    "monitor": "David Perez",
+    "detail": "TEMARIO:\nEntorno de desarrollo Android\no Estructura de un proyecto Android\no Componentes de una aplicación Android\n• Interfaz de usuario\no Layouts\no Controles básicos\no Listas\no NavigaAon Drawer(NavigaAonView)\no CoordinatorLayout• Aplicación Android con interfaces gráficas ",
+    "notes": "Perfil: conocimientos básicos de programación en Java ",
+    "id_image": "WORKANDROID",
+    "place": "SILAO",
+    "date" : "09-11-16",
+    "time" : "10:00-15:00"
+  }, {
+    "id": "71",
+    "title": "Introducción a la programación de aplicaciones móviles con Android",
+    "monitor": "David Perez",
+    "detail": "TEMARIO:\nEntorno de desarrollo Android\no Estructura de un proyecto Android\no Componentes de una aplicación Android\n• Interfaz de usuario\no Layouts\no Controles básicos\no Listas\no NavigaAon Drawer(NavigaAonView)\no CoordinatorLayout• Aplicación Android con interfaces gráficas ",
+    "notes": "Perfil: conocimientos básicos de programación en Java ",
+    "id_image": "WORKANDROID",
+    "place": "SILAO",
+    "date" : "10-11-16",
+    "time" : "10:00-15:00"
+  }, {
+    "id": "8",
+    "title": "Big Data sobre Hadoop",
+    "monitor": "Bruno Ramirez",
+    "detail": "Conocer los fundamentos de la ingesta, almacenamiento, análisis y procesamiento de grandes cantidades de datos para aplicaciones industriales utilizando el ecosistema Hadoop",
+    "notes": "Perfil: conocimiento básicos de Java y Shell de Linux y bases de datos ",
+    "id_image": "WORKDATA",
+    "place": "SILAO",
+    "date" : "09-11-16",
+    "time" : "10:00-14:00"
+  }
+
+]

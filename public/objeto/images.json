@@ -1,0 +1,203 @@
+[
+    {
+    	"id": "ZAMORA",
+      	"image": "spk_zamora.jpg"
+    },
+    {
+    	"id": "BARRIA",
+      	"image": "spk_barria.jpeg"
+    },
+    {
+    	"id": "GELBUKH",
+      	"image": "spk_gelbukh.png"
+    },
+    {
+    	"id": "HUGOJ",
+      	"image": "spk_hugo.jpg"
+    },
+    {
+    	"id": "CARLOSV",
+      	"image": "spk_carlosv.jpg"
+    },
+    {
+    	"id": "GILBERTO",
+      	"image": "spk_gilberto.jpg"
+    },
+    {
+    	"id": "IMELDA",
+      	"image": "spk_imelda.jpg"
+    },
+    {
+      "id": "DUFFETT",
+        "image": "spk_duffett.png"
+    },
+    {
+      "id": "A1",
+        "image": "A1.png"
+    },
+    {
+      "id": "A2",
+        "image": "A2.png"
+    },
+    {
+      "id": "A3",
+        "image": "A3.png"
+    },
+    {
+      "id": "A4",
+        "image": "A4.png"
+    },
+    {
+      "id": "A5",
+        "image": "A5.png"
+    },
+    {
+      "id": "A6",
+        "image": "A6.png"
+    },
+    {
+      "id": "A7",
+        "image": "A7.png"
+    },
+    {
+      "id": "A8",
+        "image": "A8.png"
+    },
+    {
+      "id": "A9",
+        "image": "A9.png"
+    },
+    {
+      "id": "Test1",
+        "image": "A7.png"
+    },
+    {
+      "id": "SKETCH",
+      "image": "sketch.png"
+    },
+    {
+      "id": "HOTELS",
+      "image": "hotels.jpg"
+    },
+    {
+      "id": "SILAO",
+      "image": "silao.jpg"
+    },
+    {
+      "id": "LEON",
+      "image": "leon.jpg"
+    },
+    {
+      "id": "SALAMANCA",
+      "image": "salamanca.jpg"
+    },
+    {
+      "id": "CUBILETE",
+      "image": "cubilete.jpeg"
+    },
+    {
+      "id": "MUSEOJTCM",
+      "image": "museojtcm.jpg"
+    },
+    {
+      "id": "CATEDRALBL",
+      "image": "catedralbl.jpg"
+    },
+    {
+      "id": "TEMPLOE",
+      "image": "temploe.jpg"
+    },
+    {
+      "id": "ARCOTL",
+      "image": "arcotl.jpg"
+    },
+    {
+      "id": "PLAZAF",
+      "image": "plazaf.jpeg"
+    },
+    {
+      "id": "MUSEOAHG",
+      "image": "museoahg.png"
+    },
+    {
+      "id": "ONESILAO",
+      "image": "onesilao.jpg"
+    },
+    {
+      "id": "WYNDHAM",
+      "image": "wyndham.jpg"
+    },
+    {
+      "id": "CITYES",
+      "image": "cityes.jpg"
+    },
+    {
+      "id": "REALMB",
+      "image": "realmb.jpg"
+    },
+    {
+      "id": "GAMMAL",
+      "image": "gammal.jpg"
+    },
+    {
+      "id": "CITYEL",
+      "image": "cityel.jpg"
+    },
+    {
+      "id": "OSCAR",
+      "image": "lemus.png"
+    },
+    {
+      "id": "TEMPLOSA",
+      "image": "templosa.jpg"
+    },
+    {
+      "id": "TEMPLOSH",
+      "image": "templosh.jpg"
+    },
+    {
+      "id": "PARROQUIAA",
+      "image": "parroquiaa.jpg"
+    },
+    {
+      "id": "LUISM",
+      "image": "spk_luism.png"
+    },
+    {
+      "id": "ISRAELC",
+      "image": "spk_israelc.png"
+    },
+    {
+      "id": "WITCOM",
+      "image": "witcomlogo.png"
+    },
+    {
+      "id": "CARLOSN",
+      "image": "nava.jpg"
+    },
+    {
+      "id": "NOES",
+      "image": "noesierra.jpg"
+    },
+    {
+      "id": "SUSANAT",
+      "image": "susanat.png"
+    },
+    {
+      "id": "WORKCLOUD",
+      "image": "workcloud.png"
+    },
+    {
+      "id": "WORKANDROID",
+      "image": "workandroid.png"
+    },
+    {
+      "id": "WORKDATA",
+      "image": "workdata.png"
+    },
+    {
+      "id": "JULIOR",
+      "image": "julior.png"
+    }
+
+]

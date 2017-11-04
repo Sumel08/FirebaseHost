@@ -1,0 +1,90 @@
+[
+    {
+        "id": 6,
+        "name": "Registration",
+        "description": "Welcome to WITCOM 2017",
+        "created": "2017-10-15T02:24:48.637362Z",
+        "show_in_app": false,
+        "event": 8,
+        "image": 55,
+        "image_url": "/media/Registry.png",
+        "show_speakers_in_app": false
+    },
+    {
+        "id": 7,
+        "name": "Inauguration",
+        "description": "WITCOM 2017",
+        "created": "2017-10-15T02:27:26.147690Z",
+        "show_in_app": false,
+        "event": 8,
+        "image": 56,
+        "image_url": "/media/openning.png",
+        "show_speakers_in_app": false
+    },
+    {
+        "id": 8,
+        "name": "Industrial Keynote",
+        "description": "WITCOM 2017",
+        "created": "2017-10-15T02:28:06.164534Z",
+        "show_in_app": true,
+        "event": 8,
+        "image": 57,
+        "image_url": "/media/industry.png",
+        "show_speakers_in_app": true
+    },
+    {
+        "id": 9,
+        "name": "Paper",
+        "description": "WITCOM 2017",
+        "created": "2017-10-15T02:28:41.879290Z",
+        "show_in_app": true,
+        "event": 8,
+        "image": 58,
+        "image_url": "/media/papper.png",
+        "show_speakers_in_app": false
+    },
+    {
+        "id": 10,
+        "name": "COFFEE BREAK",
+        "description": "WITCOM 2017",
+        "created": "2017-10-15T02:29:10.790873Z",
+        "show_in_app": false,
+        "event": 8,
+        "image": 59,
+        "image_url": "/media/coffeebreak.png",
+        "show_speakers_in_app": false
+    },
+    {
+        "id": 11,
+        "name": "Scientific Keynote",
+        "description": "WITCOM 2017",
+        "created": "2017-10-15T02:29:45.812954Z",
+        "show_in_app": true,
+        "event": 8,
+        "image": 60,
+        "image_url": "/media/scientific.png",
+        "show_speakers_in_app": true
+    },
+    {
+        "id": 12,
+        "name": "Entrepeuner Keynote",
+        "description": "WITCOM 2017",
+        "created": "2017-10-15T02:30:27.059142Z",
+        "show_in_app": true,
+        "event": 8,
+        "image": 61,
+        "image_url": "/media/entrepeuner.png",
+        "show_speakers_in_app": true
+    },
+    {
+        "id": 13,
+        "name": "CLOSURE",
+        "description": "WITCOM 2017",
+        "created": "2017-10-15T02:30:59.519773Z",
+        "show_in_app": false,
+        "event": 8,
+        "image": 62,
+        "image_url": "/media/closure.png",
+        "show_speakers_in_app": false
+    }
+]

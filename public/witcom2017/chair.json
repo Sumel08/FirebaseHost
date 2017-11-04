@@ -1,0 +1,59 @@
+[
+    {
+        "id": 15,
+        "event": 8,
+        "person": 18,
+        "person_data": {
+            "id": 18,
+            "name": "DR. MIGUEL FÉLIX",
+            "surname": "MATA RIVERA",
+            "birthdate": "2017-11-08",
+            "photo": 63,
+            "resume": "Hi, I'm Miguel Felix Mata Rivera, Professor in Computer Science, GIS, Telematics, IoT, Big Data and Cloud Computing.I hold a Ph.D. in Computer Science. Member of the National Research System (SNI, Mexico). I am a professor in SEPI-UPIITA in the MSc and PhD program in the research line of Telematics systems. I am part of Research Network Computing of IPN, and i am founder-president of ANTACOM association and I have a collaboration as a scientific advisor with GeoIT.",
+            "email": "migfel@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/migfel.jpg",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 16,
+        "event": 8,
+        "person": 19,
+        "person_data": {
+            "id": 19,
+            "name": "M. EN C. CARLOS",
+            "surname": "HERNÁNDEZ NAVA",
+            "birthdate": "2017-11-08",
+            "photo": 65,
+            "resume": "Mi nombre es Carlos Hernández Nava, profesor de la UPIITA del IPN adscrito a la academia de telemática.\r\nCreé este sitio con la intención de dar a conocer mis intereses de investigación y para apoyo a los unidades \r\nde aprendizaje que desarrollo en la UPIITA.",
+            "email": "hernandez.nava@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/nava_HMfZMGf.jpg",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    },
+    {
+        "id": 17,
+        "event": 8,
+        "person": 20,
+        "person_data": {
+            "id": 20,
+            "name": "M. EN C. ROBERTO",
+            "surname": "ZAGAL FLORES",
+            "birthdate": "2017-11-08",
+            "photo": 66,
+            "resume": "-",
+            "email": "zagalmmx@gmail.com",
+            "phone": "5555555555",
+            "provenance": 23,
+            "event": 8,
+            "photo_url": "/media/zagal.png",
+            "provenance_name": "CANCÚN WITCOM 2017"
+        }
+    }
+]
